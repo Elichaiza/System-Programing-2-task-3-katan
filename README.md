@@ -1,5 +1,5 @@
 **The Settlers of Catan - Game Rules**
-Introduction
+**Introduction**
 The Settlers of Catan is a board game for 3 to 4 players that combines strategic thinking, resource management, and trading skills.
 The objective is to be the first to accumulate 10 victory points. Full game instructions can be found here.
 
